@@ -32,7 +32,6 @@ This is a Student Management System Developed for Educational Purpose using Pyth
 
 ## Support Developer
 1. lets connect https://www.linkedin.com/in/tushar-jadhav-39391a171/
-2. Add a Star 🌟  to this 👆 Repositor
 
 
 ## How to Install and Run this project?
